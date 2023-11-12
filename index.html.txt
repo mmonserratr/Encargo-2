@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Encargo 2</h1>
+<p>Experimentación</p>
+</body>
+</html>
